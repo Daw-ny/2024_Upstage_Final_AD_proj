@@ -190,7 +190,7 @@ Accuracy Score 또한 리더보드에 참고용으로 제공되나, 등수 산�
 
 ### 활용 방안
 ![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/02fcf1ce-ae8d-47d1-841e-6efeb1fdcaab)
-- Python Dash를 활용해 InterActive Dashboard를 구성하였습니다. 임시로 전체적인 사진만 
+- Python Dash를 활용해 InterActive Dashboard를 구성하였습니다. 임시로 전체적인 사진만 업로드 했습니다.
 
 ### Presentation
 - [Google Project](https://docs.google.com/presentation/d/1MJICWO11-tY88Fn-WPqpa4e8h4p83jTm/edit#slide=id.g2c4e1232ee9_0_11)
