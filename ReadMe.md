@@ -193,7 +193,7 @@ Accuracy Score 또한 리더보드에 참고용으로 제공되나, 등수 산�
 - Python Dash를 활용해 InterActive Dashboard를 구성하였습니다. 임시로 전체적인 사진만 업로드 했습니다.
 
 ### Presentation
-- [Google Project](https://docs.google.com/presentation/d/1MJICWO11-tY88Fn-WPqpa4e8h4p83jTm/edit#slide=id.g2c4e1232ee9_0_11)
+- [Google Project](https://docs.google.com/presentation/d/1yKXgkfH1cymaJseafWG27cXgZnGUap5e/edit#slide=id.g2da7f7e83b8_0_1045)
 
 ## etc
 
