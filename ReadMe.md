@@ -45,7 +45,7 @@
 <td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/0f945311-9828-4e50-a60c-fc4db3fa3b9d"  width="250"  height="300"/>  </td>
 <td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ml-regression-01/assets/76687996/a4dbcdb5-1d28-4b91-8555-1168abffc1d0"  width="250"  height="300"/>  </td>
 <td>  <img  alt="Github"  src ="https://github.com/HojunJ/conventional-repo/assets/76687996/d2bef206-7699-4028-a744-356b1950c4f1"  width="250"  height="300"/>  </td>
-<td>  <img  alt="Github"  src ="https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/85b14aed-b780-4d9d-b51e-5c497b7c4220"  width="250"  height="300"/>  </td>
+<td>  <img  alt="Github"  src ="https://github.com/UpstageAILab/upstage-ai-final-ir1/assets/147508048/685b52f9-872e-4456-933f-2bead5efba2b"  width="250"  height="200"/>  </td>
 </tr>
 <tr>
 <td>  <div  align=center>  <a  href="https://github.com/Daw-ny">  <img  alt="Github"  src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/>  </div>  </td>
