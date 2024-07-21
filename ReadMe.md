@@ -118,78 +118,60 @@ tzdata==2023.4
 
 Accuracy Score 또한 리더보드에 참고용으로 제공되나, 등수 산정은 F1 Score 만을 기준으로 합니다.
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/d4cfde14-b602-4862-b536-37a4f6970be7)
+![image](https://github.com/user-attachments/assets/2586565b-67e0-47c3-8305-8e4a0e808476)
 
 ## 2. Components
 
 ### Directory
 
-![image](https://github.com/UpstageAILab/upstage-cv-classification-cv1/assets/76687996/17569632-122c-4b30-93d1-3c08717d32e1)
+![image](https://github.com/user-attachments/assets/3f7ab3f2-2468-45ec-94b5-7d366953918c)
 
-## 3. Strategy
-
-### Dataset overview
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/bfa1e3ff-c8a4-48b7-997e-3dfca4ccbcb8)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/e2bfc1a5-7c2a-41c0-9d8a-dcee80e0d065)
+![image](https://github.com/user-attachments/assets/9873c511-3d05-4178-90b1-e08245ee6c47)
 
 ### EDA
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/7ee06bc9-54e8-48a4-ba76-623861b4c3bd)
+![image](https://github.com/user-attachments/assets/eebf5814-2382-47e3-8c44-525e43a4556f)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/41319b9c-6573-41c7-81cc-9a51569d3c8e)
+![image](https://github.com/user-attachments/assets/a0f8912e-5fc5-42b1-a7c2-63e53530846b)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/6994102c-db13-48c8-bdc9-f86bf244e165)
+## 3. Dimension Reduction
+### 차원 축소
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/bee81b78-d281-4f6b-a846-bd272712aa07)
+![image](https://github.com/user-attachments/assets/aa8f8e38-2693-4344-9cfa-64b821726f90)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/cd52c5a6-e273-4ec6-ac37-dec037a3f685)
+![image](https://github.com/user-attachments/assets/5d59d8ff-bf1b-4e35-b45f-c168f48301da)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/c1d48682-8fe3-4e62-ac68-3e42d926b05e)
+## 4. Modeling
+### 모델링
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/b06954e8-f956-445e-b7f2-ee61afe539c7)
+![image](https://github.com/user-attachments/assets/e10375a2-e5b7-452d-ac6c-ac1cefbe5965)
 
+![image](https://github.com/user-attachments/assets/a18ecdd9-b76a-437c-8e35-4ae8a1d682dc)
 
-## Modeling
+![image](https://github.com/user-attachments/assets/b9e3bfc1-e3bf-44f8-941b-47913792a60c)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/2398e6b9-de3b-49cb-8bda-bf8c15ef9723)
+![image](https://github.com/user-attachments/assets/1803b59b-19a1-4d46-abd0-30dfb21462bc)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/90a9a878-c6f0-4478-8cc2-eeec315d5b12)
+![image](https://github.com/user-attachments/assets/2d56f73c-e8ae-44bd-950b-7a256db0388b)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/b71452ae-5d61-4eb6-9f41-b00b6591ed7f)
+![image](https://github.com/user-attachments/assets/55379dca-283c-408f-9cdd-a06a95e520b3)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/a49771cc-ee62-4e91-82bd-8aae5888a299)
+![image](https://github.com/user-attachments/assets/634518e5-ff7d-40de-b000-cc6fa3a4133f)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/69c928be-6825-49fc-a873-3ebe28db152f)
+![image](https://github.com/user-attachments/assets/65cae539-f8e2-45c3-9902-28be1200279d)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/73134fac-a5ff-4066-97b4-0e6d11f4dd0c)
+![image](https://github.com/user-attachments/assets/5433d0d2-05e8-4cb5-95c3-cb5f2427ed3a)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/7c929557-07d4-4849-be1e-32a69e32bf41)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/474338b4-5978-436c-b3d4-f3d2b9d3ac04)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/f3fd9bb2-216c-4d5d-8fb7-b8af1a3e07e0)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/c304326a-9757-46a5-a71f-bdd9f9ec26e1)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/88e45cee-30cd-4b8b-b61f-3d4c536077b2)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/248030e5-2fce-41dd-ac98-c6578a94bfe2)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/393e5314-4f58-4d3c-bdb3-5e30840e660b)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/e1465d2c-568e-45ac-9f5f-bd37ecf55445)
-
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/86c09442-480f-4695-8ecf-993ffa262672)
+![image](https://github.com/user-attachments/assets/af7d79bb-d3df-4911-8bcb-65c992d29096)
 
 ## 5. Result
+### 사후분석
 
-### Leader Board - 1st
+![image](https://github.com/user-attachments/assets/8e4220b2-c1ef-455a-8fdd-e960712ec6ae)
 
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/3093d018-13da-4665-9eb4-e701058b2f7d)
+### 활용방안
 
-### 활용 방안
-![image](https://github.com/Daw-ny/2023_Dacon_pred_temp/assets/76687996/02fcf1ce-ae8d-47d1-841e-6efeb1fdcaab)
+![image](https://github.com/user-attachments/assets/468a762d-98e8-462f-874e-00ad30006124)
 - Python Dash를 활용해 InterActive Dashboard를 구성하였습니다. 임시로 전체적인 사진만 업로드 했습니다.
 
 ### Presentation
